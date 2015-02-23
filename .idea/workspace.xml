@@ -2,250 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5695cefa-7f07-4db6-81c1-93ec7cfc62bf" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\app.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\angular-file-upload\angular-file-upload.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\css\font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\bootstrap3\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\css\gsdk.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\css\pe-icon-7-stroke.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\fonts\Pe-icon-7-stroke.eot" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\fonts\Pe-icon-7-stroke.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\fonts\Pe-icon-7-stroke.ttf" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\fonts\Pe-icon-7-stroke.woff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\bg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\bg6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\bg8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\bg9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\blog_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\blog_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\blog_3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-full-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-full-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-full-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-full-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-full-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-full-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-full-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-product-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-product-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\card-product-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\carousel_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\carousel_green.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\carousel_orange.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\carousel_red.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\default-avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\dulau.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\faces\face-0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\faces\face-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\faces\face-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\faces\face-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\faces\face-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\faces\face-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\faces\face-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\faces\face-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\faces\tim_vector.jpe" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\AD.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\AE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\AG.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\AM.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\AR.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\AT.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\AU.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\BE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\BF.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\BG.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\BO.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\BR.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\CA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\CD.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\CG.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\CH.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\CL.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\CM.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\CN.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\CO.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\CZ.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\DE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\DJ.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\DK.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\DZ.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\EE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\EG.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\ES.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\FI.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\FR.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\GA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\GB.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\GM.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\GT.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\HN.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\HT.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\HU.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\ID.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\IE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\IL.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\IN.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\IQ.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\IR.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\IT.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\JM.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\JO.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\JP.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\KG.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\KN.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\KP.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\KR.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\KW.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\KZ.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\LA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\LB.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\LC.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\LS.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\LU.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\LV.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\MG.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\MK.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\ML.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\MM.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\MT.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\MX.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\NA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\NE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\NG.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\NI.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\NL.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\NO.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\OM.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\PA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\PE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\PG.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\PK.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\PL.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\PT.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\PY.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\QA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\RO.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\RU.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\RW.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\SA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\SE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\SG.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\SL.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\SN.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\SO.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\SV.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\TD.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\TJ.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\TL.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\TR.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\TZ.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\UA.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\US.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\VE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\VN.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\flags\YE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\book.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\cart.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\gift.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\globe.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\graph.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\iphone.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\laptop.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\mail.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\map.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\message.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\photo.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\pin.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\tablet.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\icons\video.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\loading-bubbles.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\mask.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\mockup.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\new_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\basic_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\big_basic.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\big_cards.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\big_content copy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\big_content.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\big_javascript.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\card_bootstrap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\card_doc_psd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\card_icons.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\cards_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_azure.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_azure_stone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_blue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_blue_stone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_green.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_green_stone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_orange.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_orange_stone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_red.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\color_red_stone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\content_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\javascript_thumb.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\layer_body.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\layer_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\presentation\layer_image.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\shopping_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\shopping_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\shopping_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\shopping_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\shopping_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\tim_80x80.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\tutorial\ButtonsColors.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\tutorial\Datepicker.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\tutorial\DatepickerFolder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\tutorial\Description.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\tutorial\Elements.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\tutorial\FolderStructure.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\tutorial\Hover.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\img\tutorial\HoverFolder.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\angular-route.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\bootstrap-datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\bootstrap-select.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\chartist.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\get-shit-done.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\gsdk-bootstrapswitch.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\gsdk-checkbox.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\gsdk-morphing.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\gsdk-radio.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\jquery-1.10.2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\jquery-ui-1.10.4.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\app\js\jquery.tagsinput.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\jasny-bootstrap\css\jasny-bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\jasny-bootstrap\css\jasny-bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\jasny-bootstrap\css\jasny-bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\jasny-bootstrap\js\jasny-bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\assets\jasny-bootstrap\js\jasny-bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\controllers\home.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\controllers\upload.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\views\home.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\scrybe\views\upload.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MOVED" beforePath="C:\Users\Namdascious\Desktop\Projects\buildIoT\.idea\scrybe.iml" afterPath="$PROJECT_DIR$/.idea/buildIoT.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/home.html" afterPath="$PROJECT_DIR$/www/views/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="scrybe.iws" />
@@ -273,8 +35,38 @@
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="578">
-              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="241" max-vertical-offset="1275">
+              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6702509" vertical-offset="0" max-vertical-offset="612">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/server.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="204">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="425">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -283,7 +75,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="493">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
               <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
               <folding />
             </state>
@@ -293,31 +85,21 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="2482">
-              <caret line="70" column="74" selection-start-line="70" selection-start-column="74" selection-end-line="70" selection-end-column="74" />
+            <state vertical-scroll-proportion="-12.423077" vertical-offset="1938" max-vertical-offset="2550">
+              <caret line="133" column="22" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/views/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7039877" vertical-offset="0" max-vertical-offset="748">
-              <caret line="27" column="107" selection-start-line="27" selection-start-column="107" selection-end-line="27" selection-end-column="107" />
+            <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="748">
+              <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Software Development/Get Shit Done Theme/HTML/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="66977" max-vertical-offset="77452">
-              <caret line="3971" column="48" selection-start-line="3946" selection-start-column="24" selection-end-line="3971" selection-end-column="48" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -332,23 +114,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Software Development/Get Shit Done Theme/HTML/assets/css/demo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14824">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="866" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/controller.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="697">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
-                <element signature="e#929#2795#0" expanded="false" />
+                <marker date="1424560293051" expanded="true" signature="63:112" placeholder="[...]" />
+                <marker date="1424560293051" expanded="true" signature="108:111" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="144:304" placeholder="[...]" />
+                <marker date="1424560293051" expanded="true" signature="213:303" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="340:656" placeholder="[...]" />
+                <marker date="1424560293051" expanded="true" signature="385:655" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="481:633" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="580:627" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="693:742" placeholder="[...]" />
+                <marker date="1424560293051" expanded="true" signature="738:741" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="786:835" placeholder="[...]" />
+                <marker date="1424560293051" expanded="true" signature="831:834" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="870:2796" placeholder="[...]" />
+                <marker date="1424560293051" expanded="false" signature="929:2795" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="986:1041" placeholder="{&quot;url&quot;: 'http://localhost:3000/api/upload'...}" />
+                <marker date="1424560293051" expanded="true" signature="1086:1241" placeholder="{&quot;name&quot;: 'customFilter'...}" />
+                <marker date="1424560293051" expanded="true" signature="1145:1170" placeholder="/*...*/" />
+                <marker date="1424560293051" expanded="true" signature="1181:1235" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="1315:1340" placeholder="/*...*/" />
+                <marker date="1424560293051" expanded="true" signature="1359:1437" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="1492:1552" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="1612:1677" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="1729:1786" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="1848:1915" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="1966:2022" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="2100:2183" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="2259:2340" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="2417:2499" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="2578:2662" placeholder="{...}" />
+                <marker date="1424560293051" expanded="true" signature="2705:2751" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -380,26 +181,30 @@
         <option value="$PROJECT_DIR$/scrybe/views/upload.html" />
         <option value="$PROJECT_DIR$/scrybe/controllers/home.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/www/js/services.js" />
         <option value="$PROJECT_DIR$/www/assets/app/css/scrybe.css" />
         <option value="$PROJECT_DIR$/www/views/books.html" />
         <option value="$PROJECT_DIR$/www/app.js" />
         <option value="$PROJECT_DIR$/www/views/recipes.html" />
         <option value="$PROJECT_DIR$/www/js/controller.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/views/home.html" />
+        <option value="$PROJECT_DIR$/www/server.json" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="NamedScopeManager">
+    <scope name="buildIoT" pattern="(!file[scrybe]:www//*||file[scrybe]:www/js//*)&amp;&amp;!file[scrybe]:node_modules//*&amp;&amp;!file[scrybe]:.idea//*&amp;&amp;!file:README.md&amp;&amp;!file:package.json&amp;&amp;!file:LICENSE" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="width" value="1372" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -424,18 +229,17 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scrybe" />
+              <option name="myItemId" value="buildIoT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scrybe" />
+              <option name="myItemId" value="buildIoT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -445,7 +249,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scrybe" />
+              <option name="myItemId" value="buildIoT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -453,88 +257,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scrybe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="buildIoT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scrybe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="buildIoT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scrybe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="buildIoT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scrybe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="buildIoT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fontawesome" />
+              <option name="myItemId" value="node_modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -542,10 +271,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="JavaScript.Libraries" />
+    <property name="options.lastSelected" value="watcher.settings" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="JavaScriptLanguageLevel" value="ES6" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -553,14 +285,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -568,6 +296,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -607,27 +339,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1372" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1777151" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17766117" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -645,9 +377,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962519" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -707,11 +439,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Software Development/Get Shit Done Theme/HTML/index.html">
+    <entry file="file://$PROJECT_DIR$/www/assets/app/css/scrybe.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="66977" max-vertical-offset="77452">
-          <caret line="3971" column="48" selection-start-line="3946" selection-start-column="24" selection-end-line="3971" selection-end-column="48" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="15181">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="697">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1424560293051" expanded="true" signature="63:112" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="108:111" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="144:304" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="213:303" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="340:656" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="385:655" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="481:633" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="580:627" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="693:742" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="738:741" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="786:835" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="831:834" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="870:2796" placeholder="[...]" />
+            <marker date="1424560293051" expanded="false" signature="929:2795" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="986:1041" placeholder="{&quot;url&quot;: 'http://localhost:3000/api/upload'...}" />
+            <marker date="1424560293051" expanded="true" signature="1086:1241" placeholder="{&quot;name&quot;: 'customFilter'...}" />
+            <marker date="1424560293051" expanded="true" signature="1145:1170" placeholder="/*...*/" />
+            <marker date="1424560293051" expanded="true" signature="1181:1235" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1315:1340" placeholder="/*...*/" />
+            <marker date="1424560293051" expanded="true" signature="1359:1437" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1492:1552" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1612:1677" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1729:1786" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1848:1915" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1966:2022" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2100:2183" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2259:2340" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2417:2499" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2578:2662" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2705:2751" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/recipes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="867">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="578">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="493">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="2482">
+          <caret line="70" column="74" selection-start-line="70" selection-start-column="74" selection-end-line="70" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -723,20 +536,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Software Development/Get Shit Done Theme/HTML/assets/css/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14824">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="866" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="697">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#929#2795#0" expanded="false" />
+            <marker date="1424560293051" expanded="true" signature="63:112" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="108:111" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="144:304" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="213:303" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="340:656" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="385:655" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="481:633" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="580:627" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="693:742" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="738:741" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="786:835" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="831:834" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="870:2796" placeholder="[...]" />
+            <marker date="1424560293051" expanded="false" signature="929:2795" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="986:1041" placeholder="{&quot;url&quot;: 'http://localhost:3000/api/upload'...}" />
+            <marker date="1424560293051" expanded="true" signature="1086:1241" placeholder="{&quot;name&quot;: 'customFilter'...}" />
+            <marker date="1424560293051" expanded="true" signature="1145:1170" placeholder="/*...*/" />
+            <marker date="1424560293051" expanded="true" signature="1181:1235" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1315:1340" placeholder="/*...*/" />
+            <marker date="1424560293051" expanded="true" signature="1359:1437" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1492:1552" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1612:1677" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1729:1786" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1848:1915" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1966:2022" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2100:2183" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2259:2340" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2417:2499" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2578:2662" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2705:2751" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -838,13 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="425">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
@@ -852,49 +679,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Software Development/Get Shit Done Theme/HTML/assets/css/demo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14824">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="866" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Software Development/Get Shit Done Theme/HTML/navbar-transparent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0" vertical-offset="1644" max-vertical-offset="2703">
-          <caret line="112" column="73" selection-start-line="105" selection-start-column="8" selection-end-line="112" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/views/recipes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="867">
           <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Software Development/Get Shit Done Theme/HTML/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="66977" max-vertical-offset="77452">
-          <caret line="3971" column="48" selection-start-line="3946" selection-start-column="24" selection-end-line="3971" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -912,28 +700,136 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="e#929#2795#0" expanded="false" />
+            <marker date="1424560293051" expanded="true" signature="63:112" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="108:111" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="144:304" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="213:303" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="340:656" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="385:655" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="481:633" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="580:627" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="693:742" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="738:741" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="786:835" placeholder="[...]" />
+            <marker date="1424560293051" expanded="true" signature="831:834" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="870:2796" placeholder="[...]" />
+            <marker date="1424560293051" expanded="false" signature="929:2795" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="986:1041" placeholder="{&quot;url&quot;: 'http://localhost:3000/api/upload'...}" />
+            <marker date="1424560293051" expanded="true" signature="1086:1241" placeholder="{&quot;name&quot;: 'customFilter'...}" />
+            <marker date="1424560293051" expanded="true" signature="1145:1170" placeholder="/*...*/" />
+            <marker date="1424560293051" expanded="true" signature="1181:1235" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1315:1340" placeholder="/*...*/" />
+            <marker date="1424560293051" expanded="true" signature="1359:1437" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1492:1552" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1612:1677" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1729:1786" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1848:1915" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="1966:2022" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2100:2183" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2259:2340" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2417:2499" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2578:2662" placeholder="{...}" />
+            <marker date="1424560293051" expanded="true" signature="2705:2751" placeholder="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="2482">
-          <caret line="70" column="74" selection-start-line="70" selection-start-column="74" selection-end-line="70" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/views/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7039877" vertical-offset="0" max-vertical-offset="748">
-          <caret line="27" column="107" selection-start-line="27" selection-start-column="107" selection-end-line="27" selection-end-column="107" />
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="748">
+          <caret line="9" column="74" selection-start-line="9" selection-start-column="74" selection-end-line="9" selection-end-column="74" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/server.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="204">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077" vertical-offset="1938" max-vertical-offset="2550">
+          <caret line="133" column="22" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="425">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/morgan/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6953">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/body-parser/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="241" max-vertical-offset="1275">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6702509" vertical-offset="0" max-vertical-offset="612">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>buildIoT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="buildIoT" />
+          </order>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
